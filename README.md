@@ -24,7 +24,7 @@
 - 2.11 複数同時代入 ([問題1](CHAPTER02/Q2_11_1.py)) ([問題2](CHAPTER02/Q2_11_2.py))
 - 2.12 モジュールの利用 ([問題1](CHAPTER02/Q2_12_1.py)) ([問題2](CHAPTER02/Q2_12_2.py))
 - 2.13 importのいろいろな書き方 ([問題1](CHAPTER02/Q2_13_1.py)) ([問題2](CHAPTER02/Q2_13_2.py))
-- 2.f 最終課題 ([問題](CHAPTER02/Q2/final.py))
+- 2.f 最終課題 ([問題](CHAPTER02/Q2_final.py))
 
 ### CHAPTER3 制御構文
 
