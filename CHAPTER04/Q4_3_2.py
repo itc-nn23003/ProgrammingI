@@ -5,5 +5,8 @@ def func_square(*args):
     return result
 
 
+numbers = [1, 2, 3, 4]
+print(func_square(*numbers))
+
 numbers = list(range(100))
 print(func_square(*numbers))
