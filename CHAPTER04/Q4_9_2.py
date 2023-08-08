@@ -10,4 +10,3 @@ for i in range(3):
         print(MAX)
     else:
         print("#")
-

@@ -3,4 +3,3 @@ foo = (0,)
 if x == 4:
     print(x, y)
     x, y = y, x
-    o
