@@ -5,7 +5,7 @@ def dict_info(dict_tbl, key):
     try:
         return dict_tbl[key]
     except:
-        return "key is not found"
+        return "key in not found"
 
 
 print(dict_info(name_age, "satou"))
